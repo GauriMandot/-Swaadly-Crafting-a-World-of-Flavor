@@ -1,0 +1,22 @@
+#menu-category-box {
+  border-bottom: 10px solid #f2f2f3;
+}
+
+.accordian-headerbox {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  cursor: pointer;
+}
+
+.text-class {
+
+  font-size:medium;
+ 
+}
+
+#title-bar {
+  padding: 1rem;
+  text-align: left;
+}
